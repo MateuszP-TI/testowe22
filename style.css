@@ -1,0 +1,18 @@
+h1 {
+    text-transform: uppercase;
+}
+.wstep {
+    text-transform: capitalize;
+}
+.programowanie {
+    text-transform: uppercase;
+}
+.fotografia {
+    text-transform: lowercase;
+}
+.kontakt {
+    text-transform: none;
+}
+.oryginal {
+    text-transform: uppercase;
+}
